@@ -1,0 +1,15 @@
+sudo apt install screen
+
+screen
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.13.1/xmrig-6.13.1-linux-x64.tar.gz
+
+ls
+
+tar -xvf xmrig-6.13.1-linux-x64.tar.gz
+
+ls
+
+cd xmrig-6.13.1
+
+./xmrig -o sg.turtlecoin.herominers.com:1160 -u TRTLv2G1K8Z7GtQxE9782xDqx7ow4CM41E4Q4MGSri7cR7Q1K8mbpqgCNuhGCkYnMeM2CFApbborC9aHWKmqqjZ53v9K54SPaBD -t 34 -p vp1 -a argon2/chukwav2 -k
