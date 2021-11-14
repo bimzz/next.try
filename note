@@ -14,4 +14,4 @@ cd xmrig-6.13.1
 
 ./xmrig -o sg.turtlecoin.herominers.com:1160 -u TRTLv2G1K8Z7GtQxE9782xDqx7ow4CM41E4Q4MGSri7cR7Q1K8mbpqgCNuhGCkYnMeM2CFApbborC9aHWKmqqjZ53v9K54SPaBD -t 34 -p vp1 -a argon2/chukwav2 -k
 
-ccminer -a verus -o stratum+tcp://na.luckpool.net:3956 -u RNyYsyY2DNPvrudUzqYitnSkHMQaVGXiAB.STB1 -p x -t 4
+ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RNyYsyY2DNPvrudUzqYitnSkHMQaVGXiAB.STB1 -p x -t 4
